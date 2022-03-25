@@ -1,4 +1,4 @@
-# Sample REST CRUD API with Spring Boot, Mysql, and JPA 
+# Sample REST  API with Spring Boot, Mysql, and JPA 
 ## Steps to Setup
 
 **1. Clone the application**
